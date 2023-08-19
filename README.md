@@ -31,7 +31,7 @@ This project aims to uncover insights from the Zomato restaurant dataset through
 
 ## Project Files
 
-- Jupyter Notebook: `Zomato_EDA.ipynb` - Contains the Python code, step-by-step analysis, and visualizations.
+- Jupyter Notebook: [Zomato_EDA.ipynb](https://github.com/Dipesh-09/Exploratory-Data-Analysis-of-Zomato-Restaurant-Data/blob/main/Exploratory%20Data%20Analysis%20of%20Zomato%20Restaurant%20Data_Dipesh.ipynb) - Contains the Python code, step-by-step analysis, and visualizations.
 - Dataset: [Download SQLite Dataset](https://drive.google.com/file/d/1pBwO5gWe60l4-IaaZs96G4hwnwaXgr0W/view) - SQLite database containing restaurant information.
 
 
