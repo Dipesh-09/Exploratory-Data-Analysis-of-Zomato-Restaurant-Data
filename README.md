@@ -26,11 +26,26 @@ This project aims to uncover insights from the Zomato restaurant dataset through
 ## Key Insights
 
 - Restaurants with higher ratings often offer online ordering services, suggesting a correlation between convenience and customer satisfaction.
+<p align="center">
+    <img src='https://github.com/Dipesh-09/Exploratory-Data-Analysis-of-Zomato-Restaurant-Data/blob/f5666d8aef6752c1de3d93a82d55b09814c8282b/Visuals/online%20order%20vs%20rating.png' width="600">
+</p>
 - Customer review analysis provided insights into popular dishes, customer sentiments, and preferences.
+<p align="center">
+    <img src='https://github.com/Dipesh-09/Exploratory-Data-Analysis-of-Zomato-Restaurant-Data/blob/main/Visuals/bigram%20analysis.png' width="600">
+    <img src='https://github.com/Dipesh-09/Exploratory-Data-Analysis-of-Zomato-Restaurant-Data/blob/main/Visuals/trigram%20analysis.png' width="600">
+</p>
 - Geographical heatmaps highlighted hotspot areas for specific cuisines, aiding potential restaurateurs in location decisions.
-
+<div class="center">
+    <h2>North Indian Restaurant Locations heatmap</h2>
+    <img src="https://github.com/Dipesh-09/Exploratory-Data-Analysis-of-Zomato-Restaurant-Data/blob/main/Visuals/north%20indian%20rest.png" width="600" alt="North Indian Restaurant Locations heatmap">
+  </div>
+  
+  <div class="center">
+    <h2>'Thai' Restaurant Location heatmap</h2>
+    <img src="https://github.com/Dipesh-09/Exploratory-Data-Analysis-of-Zomato-Restaurant-Data/blob/main/Visuals/Thai%20rest.png" width="600" alt="'Thai' Restaurant Location heatmap">
+  </div>
+  
 ## Project Files
-
 - Jupyter Notebook: [Zomato_EDA.ipynb](https://github.com/Dipesh-09/Exploratory-Data-Analysis-of-Zomato-Restaurant-Data/blob/main/Exploratory%20Data%20Analysis%20of%20Zomato%20Restaurant%20Data_Dipesh.ipynb) - Contains the Python code, step-by-step analysis, and visualizations.
 - Dataset: [Download SQLite Dataset](https://drive.google.com/file/d/1pBwO5gWe60l4-IaaZs96G4hwnwaXgr0W/view) - SQLite database containing restaurant information.
 
@@ -39,8 +54,8 @@ This project aims to uncover insights from the Zomato restaurant dataset through
 
 If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me on LinkedIn or through Email. Let's connect and discuss data!
 
-#### LinkedIn: [https://www.linkedin.com/in/dipesh-suthar-1039a6172/]
-##### Email: [suthardipesh9@gmail.com]
+#### LinkedIn: https://www.linkedin.com/in/dipesh-suthar-1039a6172/
+##### Email: suthardipesh9@gmail.com
 
 
 🔍🍽️ Let's uncover the hidden flavors and stories behind Bangalore's restaurant scene with data!
